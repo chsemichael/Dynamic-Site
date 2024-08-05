@@ -1,0 +1,124 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Dynamic_Personal_Site</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\.git\COMMIT_EDITMSG" />
+    <None Include="wwwroot\.git\config" />
+    <None Include="wwwroot\.git\description" />
+    <None Include="wwwroot\.git\FETCH_HEAD" />
+    <None Include="wwwroot\.git\HEAD" />
+    <None Include="wwwroot\.git\hooks\applypatch-msg.sample" />
+    <None Include="wwwroot\.git\hooks\commit-msg.sample" />
+    <None Include="wwwroot\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="wwwroot\.git\hooks\post-update.sample" />
+    <None Include="wwwroot\.git\hooks\pre-applypatch.sample" />
+    <None Include="wwwroot\.git\hooks\pre-commit.sample" />
+    <None Include="wwwroot\.git\hooks\pre-merge-commit.sample" />
+    <None Include="wwwroot\.git\hooks\pre-push.sample" />
+    <None Include="wwwroot\.git\hooks\pre-rebase.sample" />
+    <None Include="wwwroot\.git\hooks\pre-receive.sample" />
+    <None Include="wwwroot\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="wwwroot\.git\hooks\push-to-checkout.sample" />
+    <None Include="wwwroot\.git\hooks\sendemail-validate.sample" />
+    <None Include="wwwroot\.git\hooks\update.sample" />
+    <None Include="wwwroot\.git\index" />
+    <None Include="wwwroot\.git\info\exclude" />
+    <None Include="wwwroot\.git\logs\HEAD" />
+    <None Include="wwwroot\.git\logs\refs\heads\main" />
+    <None Include="wwwroot\.git\logs\refs\remotes\origin\HEAD" />
+    <None Include="wwwroot\.git\logs\refs\remotes\origin\main" />
+    <None Include="wwwroot\.git\objects\00\a56efef8f48f9e846bb3fae42a94f69e3fb8b1" />
+    <None Include="wwwroot\.git\objects\14\048c89fed3ad767a3ba094e16a81f67475c72a" />
+    <None Include="wwwroot\.git\objects\14\183ecb8f069016997dcd0008dd2df830ead436" />
+    <None Include="wwwroot\.git\objects\2e\ac3b843bca8f00b02c28736f79637bcf0b7a8f" />
+    <None Include="wwwroot\.git\objects\37\8588d7ac0883a8b6ea3ae11ebb663674a203d8" />
+    <None Include="wwwroot\.git\objects\45\4303db5023f09ec9b17d6446f3ce7774c28bef" />
+    <None Include="wwwroot\.git\objects\6a\946fb704ffa7c0e4c5e04dbacfd44d72e86793" />
+    <None Include="wwwroot\.git\objects\78\bc17636b8e2c461c0772199e47a678f0713544" />
+    <None Include="wwwroot\.git\objects\78\f0f8b3073aad9c635b6efd4f43fe39bd745741" />
+    <None Include="wwwroot\.git\objects\80\a2b472ede4646f9db2fa5de3bd934d63527c30" />
+    <None Include="wwwroot\.git\objects\90\883eecb3dd88a5519650a2a601f997769330cf" />
+    <None Include="wwwroot\.git\objects\9c\4f520873c196e08475c84481a70d18ac49c885" />
+    <None Include="wwwroot\.git\objects\a7\0ca6e1fe4b80091cc79c1a0ce28346a35a39a7" />
+    <None Include="wwwroot\.git\objects\b6\4851defe81b1d48e7cf8fb167bca4108026140" />
+    <None Include="wwwroot\.git\objects\c7\c6be3a296e707a7b823ff0e3b80a1dc44e043c" />
+    <None Include="wwwroot\.git\objects\cc\3783df8451cd5a66b4824b79acaa4702625268" />
+    <None Include="wwwroot\.git\objects\d2\1d03c3c5a193c25f002edd9bb5821799a0477e" />
+    <None Include="wwwroot\.git\objects\ec\e528ef4ff1f8d42ef8d467da814d4f364a78ba" />
+    <None Include="wwwroot\.git\objects\ee\75d4b182bdcb97a8aa061be8dff1e31a627366" />
+    <None Include="wwwroot\.git\objects\pack\pack-8f9c82de5102c2d4032adaca9f4c2e274c94fad8.idx" />
+    <None Include="wwwroot\.git\objects\pack\pack-8f9c82de5102c2d4032adaca9f4c2e274c94fad8.pack" />
+    <None Include="wwwroot\.git\objects\pack\pack-8f9c82de5102c2d4032adaca9f4c2e274c94fad8.rev" />
+    <None Include="wwwroot\.git\ORIG_HEAD" />
+    <None Include="wwwroot\.git\packed-refs" />
+    <None Include="wwwroot\.git\refs\heads\main" />
+    <None Include="wwwroot\.git\refs\remotes\origin\HEAD" />
+    <None Include="wwwroot\.git\refs\remotes\origin\main" />
+    <None Include="_Archive\.git\COMMIT_EDITMSG" />
+    <None Include="_Archive\.git\config" />
+    <None Include="_Archive\.git\description" />
+    <None Include="_Archive\.git\FETCH_HEAD" />
+    <None Include="_Archive\.git\HEAD" />
+    <None Include="_Archive\.git\hooks\applypatch-msg.sample" />
+    <None Include="_Archive\.git\hooks\commit-msg.sample" />
+    <None Include="_Archive\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="_Archive\.git\hooks\post-update.sample" />
+    <None Include="_Archive\.git\hooks\pre-applypatch.sample" />
+    <None Include="_Archive\.git\hooks\pre-commit.sample" />
+    <None Include="_Archive\.git\hooks\pre-merge-commit.sample" />
+    <None Include="_Archive\.git\hooks\pre-push.sample" />
+    <None Include="_Archive\.git\hooks\pre-rebase.sample" />
+    <None Include="_Archive\.git\hooks\pre-receive.sample" />
+    <None Include="_Archive\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="_Archive\.git\hooks\push-to-checkout.sample" />
+    <None Include="_Archive\.git\hooks\sendemail-validate.sample" />
+    <None Include="_Archive\.git\hooks\update.sample" />
+    <None Include="_Archive\.git\index" />
+    <None Include="_Archive\.git\info\exclude" />
+    <None Include="_Archive\.git\logs\HEAD" />
+    <None Include="_Archive\.git\logs\refs\heads\main" />
+    <None Include="_Archive\.git\logs\refs\remotes\origin\HEAD" />
+    <None Include="_Archive\.git\logs\refs\remotes\origin\main" />
+    <None Include="_Archive\.git\objects\00\a56efef8f48f9e846bb3fae42a94f69e3fb8b1" />
+    <None Include="_Archive\.git\objects\14\048c89fed3ad767a3ba094e16a81f67475c72a" />
+    <None Include="_Archive\.git\objects\14\183ecb8f069016997dcd0008dd2df830ead436" />
+    <None Include="_Archive\.git\objects\2e\ac3b843bca8f00b02c28736f79637bcf0b7a8f" />
+    <None Include="_Archive\.git\objects\37\8588d7ac0883a8b6ea3ae11ebb663674a203d8" />
+    <None Include="_Archive\.git\objects\45\4303db5023f09ec9b17d6446f3ce7774c28bef" />
+    <None Include="_Archive\.git\objects\6a\946fb704ffa7c0e4c5e04dbacfd44d72e86793" />
+    <None Include="_Archive\.git\objects\78\bc17636b8e2c461c0772199e47a678f0713544" />
+    <None Include="_Archive\.git\objects\78\f0f8b3073aad9c635b6efd4f43fe39bd745741" />
+    <None Include="_Archive\.git\objects\80\a2b472ede4646f9db2fa5de3bd934d63527c30" />
+    <None Include="_Archive\.git\objects\90\883eecb3dd88a5519650a2a601f997769330cf" />
+    <None Include="_Archive\.git\objects\9c\4f520873c196e08475c84481a70d18ac49c885" />
+    <None Include="_Archive\.git\objects\a7\0ca6e1fe4b80091cc79c1a0ce28346a35a39a7" />
+    <None Include="_Archive\.git\objects\b6\4851defe81b1d48e7cf8fb167bca4108026140" />
+    <None Include="_Archive\.git\objects\c7\c6be3a296e707a7b823ff0e3b80a1dc44e043c" />
+    <None Include="_Archive\.git\objects\cc\3783df8451cd5a66b4824b79acaa4702625268" />
+    <None Include="_Archive\.git\objects\d2\1d03c3c5a193c25f002edd9bb5821799a0477e" />
+    <None Include="_Archive\.git\objects\ec\e528ef4ff1f8d42ef8d467da814d4f364a78ba" />
+    <None Include="_Archive\.git\objects\ee\75d4b182bdcb97a8aa061be8dff1e31a627366" />
+    <None Include="_Archive\.git\objects\pack\pack-8f9c82de5102c2d4032adaca9f4c2e274c94fad8.idx" />
+    <None Include="_Archive\.git\objects\pack\pack-8f9c82de5102c2d4032adaca9f4c2e274c94fad8.pack" />
+    <None Include="_Archive\.git\objects\pack\pack-8f9c82de5102c2d4032adaca9f4c2e274c94fad8.rev" />
+    <None Include="_Archive\.git\ORIG_HEAD" />
+    <None Include="_Archive\.git\packed-refs" />
+    <None Include="_Archive\.git\refs\heads\main" />
+    <None Include="_Archive\.git\refs\remotes\origin\HEAD" />
+    <None Include="_Archive\.git\refs\remotes\origin\main" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\.git\objects\info\" />
+    <Folder Include="wwwroot\.git\refs\tags\" />
+    <Folder Include="_Archive\.git\objects\info\" />
+    <Folder Include="_Archive\.git\refs\tags\" />
+  </ItemGroup>
+
+</Project>

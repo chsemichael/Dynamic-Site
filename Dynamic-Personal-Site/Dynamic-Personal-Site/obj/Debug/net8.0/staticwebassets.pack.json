@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sloth\\OneDrive\\Documents\\My Web Sites\\Dynamic-Personal-Site\\Dynamic-Personal-Site\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dynamic-Personal-Site.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Dynamic-Personal-Site.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sloth\\OneDrive\\Documents\\My Web Sites\\Dynamic-Personal-Site\\Dynamic-Personal-Site\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sloth\\OneDrive\\Documents\\My Web Sites\\Dynamic-Personal-Site\\Dynamic-Personal-Site\\wwwroot\\assets\\img\\image000002.JPG",
+      "PackagePath": "staticwebassets\\assets\\img\\image000002.JPG"
+    },
+    {
+      "Id": "C:\\Users\\sloth\\OneDrive\\Documents\\My Web Sites\\Dynamic-Personal-Site\\Dynamic-Personal-Site\\wwwroot\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sloth\\OneDrive\\Documents\\My Web Sites\\Dynamic-Personal-Site\\Dynamic-Personal-Site\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\sloth\\OneDrive\\Documents\\My Web Sites\\Dynamic-Personal-Site\\Dynamic-Personal-Site\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sloth\\OneDrive\\Documents\\My Web Sites\\Dynamic-Personal-Site\\Dynamic-Personal-Site\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Dynamic-Personal-Site.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Dynamic-Personal-Site.props",
+      "PackagePath": "build\\Dynamic-Personal-Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Dynamic-Personal-Site.props",
+      "PackagePath": "buildMultiTargeting\\Dynamic-Personal-Site.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Dynamic-Personal-Site.props",
+      "PackagePath": "buildTransitive\\Dynamic-Personal-Site.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
